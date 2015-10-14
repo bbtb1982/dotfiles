@@ -1,0 +1,12 @@
+# list of packages I use
+
+Flatland Dark.sublime-theme
+Better CofeeScript
+GitGutter
+JsFormat
+Sass
+SideBarEnhancements
+Theme
+TrailingSpaces
+Vintageous
+Vintage

@@ -1,0 +1,26 @@
+{
+    "auto_complete": true,
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "draw_white_space": "all",
+    "font_size": 13,
+    "ignored_packages":
+        [
+            "Vintageous",
+            "Vintage"
+        ],
+    "index_exclude_patterns":
+        [
+            "/Users/cottrellio/Documents/Apps/eventboard/ember-users/tmp*",
+            "*.log"
+        ],
+    "rulers":
+        [
+            80
+        ],
+    "sublimelinter": false,
+    "tab_size": 4,
+    "theme": "Flatland Dark.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
+}
