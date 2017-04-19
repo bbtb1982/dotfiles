@@ -22,6 +22,12 @@ alias ll="ls -lFh ${colorflag}"
 alias lld="ls -l | grep ^d"
 alias rmf="rm -rf"
 
+# tmux aliases
+alias ta='tmux attach'
+alias ts='tmux ls'
+alias tat='tmux attach -t'
+alias ts='tmux new-session -s'
+
 # Helpers
 alias grep='grep --color=auto'
 alias df='df -h' # disk free, in Gigabytes, not bytes
